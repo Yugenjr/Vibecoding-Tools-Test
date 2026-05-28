@@ -1,0 +1,6 @@
+{
+  "name": "OpenTrail",
+  "description": "The Intelligence Layer for Open Source. Discover, analyze, and master repository contributions with AI-guided assistance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
